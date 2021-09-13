@@ -1,0 +1,52 @@
+#xBtn{
+    top: 0;
+    width: 66px;
+    height: 66px;
+    float: right;
+    margin-top: 38px;
+    margin-left: 50.9rem;
+}
+#headerQuestion{
+    display: inline-block;
+}
+#score{
+    background: #B588FF;
+    border-radius: 50px;
+    width: 553px;
+    height: 56px;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    float: left;
+    margin-top: 38px;
+    text-align: center;
+    margin-left: 55px;
+    border: white solid 4px;
+}
+#question{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    text-align: center;
+    margin-bottom: 35px;
+}
+#qContainer{
+    margin-top: 90px;
+}
+.btnQuestion{
+    background: #73CCB7;
+    border-radius: 50px;
+    width: 440px;
+    height: 46px; 
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    margin-left: 34.5rem;
+    margin-top: 25px;
+}

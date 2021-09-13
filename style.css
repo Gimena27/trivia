@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@200&family=Henny+Penny&display=swap");
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url("/img/1524343.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Henny Penny', cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 120px;
+  color: #FFFFFF;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-top: 100px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: #FFFFFF;
+  text-align: center;
+  top: 0;
+}
+
+p {
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: #FFFFFF;
+  margin-top: 50px;
+  text-align: center;
+}
+
+input {
+  background: #FFF8F8;
+  border-radius: 40px;
+  width: 513px;
+  height: 63px;
+  margin-left: 30.9rem;
+  margin-top: 5px;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  text-align: center;
+}
+
+img {
+  width: 180px;
+  height: 80px;
+  margin-top: 30px;
+  margin-left: 41rem;
+}
+
+#xBtn {
+  top: 0;
+  width: 66px;
+  height: 66px;
+  float: right;
+  margin-top: 38px;
+  margin-left: 50.9rem;
+}
+
+#headerQuestion {
+  display: inline-block;
+}
+
+#score {
+  background: #B588FF;
+  border-radius: 50px;
+  width: 553px;
+  height: 56px;
+  color: #FFFFFF;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  float: left;
+  margin-top: 38px;
+  text-align: center;
+  margin-left: 55px;
+  border: white solid 4px;
+}
+
+#question {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+#qContainer {
+  margin-top: 90px;
+}
+
+.btnQuestion {
+  background: #73CCB7;
+  border-radius: 50px;
+  width: 440px;
+  height: 46px;
+  color: #FFFFFF;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  margin-left: 34.5rem;
+  margin-top: 25px;
+}
+/*# sourceMappingURL=style.css.map */
